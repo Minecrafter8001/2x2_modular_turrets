@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2024-01-01
+  Changes:
+    - Added dependencies in info.json
+
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2024-01-02
+  Bugfixes:
+    - Disabled the rotation of turrets (rotating placed turrets caused the turret to not return to its original rotation after aiming at a target on the edge of its firing arc.)
+
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 2024-01-03
+  Changes:
+    - Added sprite scaling for turret to stop overlap, also switched remnants to small-remnants as to more accurately reflect the turret's size.
